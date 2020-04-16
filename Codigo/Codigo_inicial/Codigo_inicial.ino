@@ -34,5 +34,3 @@ void loop() {
    
 }
 
-// https://programarfacil.com/blog/utilizar-pulsadores-en-arduino/
-// https://www.youtube.com/watch?v=BQHMMlEAj3g

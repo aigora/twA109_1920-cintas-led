@@ -15,3 +15,4 @@ Con este trabajo pretendemos desarrollar e implementar nuestros conocimientos en
 ## Elementos
 Una placa de arduino, dos cintas led, dos pulsadores, pantalla led. El proyecto se desarrollará el código C y arduino.
 
+https://github.com/aigora/twA109_1920-cintas-led/blob/master/Images/Montaje%20de%20la%20carrera%20con%20cintas%20led.JPG

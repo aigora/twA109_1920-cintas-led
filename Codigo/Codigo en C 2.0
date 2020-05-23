@@ -65,8 +65,8 @@ void anotar(SerialPort *arduino,char *incomingData,int i, int *contador1, int *c
    	int cv1=0,cd1=0,cv2=0,cd2=0;
    	int aux1, aux2;
 	
-	*contador1=aux1;
-	*contador2=aux2;
+	aux1 = *contador1;
+	aux2 = *contador2;
 	
 	fichero = fopen ("Resultados.txt","a+");
 	

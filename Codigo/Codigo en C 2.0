@@ -9,7 +9,7 @@ void CerrarConexion(SerialPort *PueroSerie);
 int readSerialPort(SerialPort * PuertoSerie,char *, unsigned int buf_size);
 int writeSerialPort(SerialPort *PuertoSerie,char *, unsigned int buf_size);
 int isConnected(SerialPort *PuertoSerie);
-void autoConnect(SerialPort arduino,char);
+void autoConnect(SerialPort *arduino,char);
 void anotar(SerialPort *arduino,char *incomingData,int);
 int main(void)
 {

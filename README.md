@@ -21,7 +21,7 @@ Una placa de arduino, dos cintas led, dos pulsadores, pantalla led. El proyecto 
 
 ## Codigo Arduino
 
-#include <LiquidCrystal.h>
+"#include <LiquidCrystal.h>
 #include <Adafruit_NeoPixel.h>
 
 #define PIN1 8 //Pin entrada donde está conectada la tira jugador 1
@@ -262,7 +262,7 @@ void ganador2(){
                              cont2=0;
                              FLAG2=0;
 }
-
+"
 
 ## Codigo C
 
